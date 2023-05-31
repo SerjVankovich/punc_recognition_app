@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PUNK recognizer</string>
+    <string name="what_mushroom_are_you">Узнай это место в ПУНКе</string>
+    <string name="prediction_template">Ну это определенно…</string>
+    <string name="picture_btn">Сфоткать</string>
+    <string name="choose_picture_btn">Выбрать из галереи</string>
+    <string name="probability_template">c вероятностью </string>
+</resources>
